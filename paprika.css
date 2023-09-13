@@ -1,0 +1,64 @@
+body {
+    background-color:#FFEFD5;
+    color:#8B4513;
+}
+h1{
+    background-image: url(./images/szines.jpg);
+}
+
+
+table{
+    width: 300px;
+    text-align: center;
+    border: 1px solid;
+    float:right;
+}
+
+td{
+    border: 1px solid;
+}
+
+#green{
+    background-color: greenyellow;
+}
+
+#white{
+    background-color: white;
+}
+#red{
+    background-color: rgb(223, 145, 145);
+}
+#purple{
+    background-color: rgb(167, 98, 167);
+}
+
+a:link{
+color:black;
+}
+
+a:hover{
+    color:black;
+    }
+
+
+a:active{
+        color:black;
+        }
+a:visited{
+            color:black;
+            }
+
+a{
+    text-decoration: none;
+}
+
+.jobb{
+    float: right;
+    width: 60%;
+}
+
+.bal{
+    float:left;
+    width: 40%;
+}
+
